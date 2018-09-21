@@ -1,3 +1,58 @@
+<head>
+
+<meta name="keywords" content="" />
+
+<meta name="description" content="" />
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<title> LA ANEMIA EN EL PERÚ</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="wrapper">
+
+	<div id="menu">
+
+		<ul>
+
+			<li class="current_page_item"><a href="#">¿QUÉ ES LA ANEMIA?</a></li>
+
+            <li><a href="#">CAUSAS</a></li>
+
+			<li><a href="#">EFECTOS</a></li>
+
+			<li><a href="#">SOLUCIONES</a></li>
+
+			<li><a href="#">ESTADISTICAS</a></li>
+
+			
+
+		</ul>
+
+	</div>
+
+	<!-- end #menu -->
+
+	<div id="header">
+
+		<div id="logo">
+
+			<h1><a href="#">LA ANEMIA EN EL PERÚ   </a></h1>			
+
+		</div>
+
+	</div>
+
+	<!-- end #header -->
+
+
+
+
 ## DEFINICIÓN
 
 La anemia se define por la reducción de la concentración de la hemoglobina (proteína encargada de transportar el oxígeno a los tejidos), por debajo de los niveles considerados normales para una determinada edad, sexo y altura sobre el nivel del mar debido a la deficiencia de hierro.
