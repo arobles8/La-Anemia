@@ -1,6 +1,6 @@
 ## DEFINICIÓN
 
-You can use the [editor on GitHub](https://github.com/Ariana8/La-Anemia/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+La anemia se define por la reducción de la concentración de la hemoglobina (proteína encargada de transportar el oxígeno a los tejidos), por debajo de los niveles considerados normales para una determinada edad, sexo y altura sobre el nivel del mar debido a la deficiencia de hierro.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
